@@ -26,6 +26,8 @@ For example Kp, Ki, and Kd should liven in a PID controller object and are retur
 * Add python.exe to your list of interpreters and set is as the project interpreter
 
 ### Install Eve:
+Website: http://python-eve.org/
+Docs on schema format: http://cerberus.readthedocs.org/en/latest/#
 
 In PyCharm, go to File -> Settings -> Project Settings -> Project Interpreters -> Python Interpreters.
 Install the package Eve (by Nicola Iarocci)
